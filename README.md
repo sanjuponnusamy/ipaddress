@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Network Device Inventory Management System with IPv4 Address Validation
 
 A comprehensive full-stack Computer Networks college project built with **React (Vite)**, **Tailwind CSS**, **Node.js/Express**, and **MongoDB Atlas**.
@@ -53,3 +54,6 @@ npm install
 npm run dev
 # Running on http://localhost:5173
 ```
+=======
+# ipaddress
+>>>>>>> 5408a56e155ec28963d69ccfed4738f0ee8a3f75
